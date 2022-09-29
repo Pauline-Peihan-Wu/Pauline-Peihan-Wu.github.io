@@ -13,7 +13,7 @@ labels:
 summary: This my very first project in my programming career.I do not have any prior experience with programming.
 ---
 
-<img class="ui medium right floated rounded image" src="../img/Sketching Game.PNG">
+<img class="ui medium right floated rounded image" src="../img/Sketching Game.png">
 
 This is the very first project I have made since I started to learn how to write code. The project itself might look really easy. But I've put in lots of work into it to create it successfully. 
 
