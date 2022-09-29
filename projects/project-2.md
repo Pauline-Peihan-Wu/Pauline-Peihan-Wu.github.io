@@ -14,7 +14,7 @@ labels:
 summary: The Second project I created in ICS 111 class. First simple video game made by myself.
 ---
 
-<img class="ui medium left floated rounded image" src="../img/Mario Game.PNG">
+<img class="ui medium left floated rounded image" src="../img/Mario Game.png">
 
 After having some knowledge of Java, the professor assigned us another project. The project origanially called Zombie because the example professor provide is Zombie theme. The professor did not say the project we create have to be zombie theme so I chose to use Mario as my theme for the game. 
 
