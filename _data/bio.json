@@ -1,43 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "name": "Pauline Wu",
+    "label": "Graduate Student",
+    "picture": "https://Pauline-Peihan-Wu.github.io/img/Pauline Wu 2.jpg",
+    "email": "peihanwu@hawaii.edu",
+    "phone": "808-392-6982",
+    "website": "https://Pauline-Peihan-Wu.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Pauline-Peihan-Wu", "url": "http://github.com/Pauline-Peihan-Wu" },
+      { "network": "linkedin", "username": "Pauline Wu", "url": "https://www.linkedin.com/in/pauline-wu/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cybersecurity" },
+    { "name": "Basketball" },
+    { "name": "Data Science" },
+    { "name": "Problem Solving" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Semantic-UI", "Assembly", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows", "Kali" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "M.S.",
+      "startDate": "2022-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,54 +42,88 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Mathnasium Hawaii",
+      "position": "Lead Instructor",
+      "website": "https://www.mathnasium.com/waialae/about",
+      "startDate": "2019-09",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learned about team-teaching",
+        "Tutor students on math problem using team-teaching. Math level: Elementary math to Algebra 1, Trigonometry and Calculus II"
+      ]
+    },
+    {
+      "company": "NATIONAL INNOVATION SECURITY NETWORK",
+      "position": "2022 X-Force Summer Fellow",
+      "website": "https://www.nsin.mil/",
+      "startDate": "2022-06-06",
+      "endDate": "2022-08-12",
+      "summary": "",
+      "highlights": [
+        "Created a python simulation for Cargo Delivery in Marine Corps",
+        "Working with two other students and a sponsor in Marine Corps who is an Active Duty LtCol"
       ]
     },
     {
       "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "position": "Student Java Web Developer",
+      "website": "https://www.hawaii.edu/its/",
+      "startDate": "2019-08-12",
+      "endDate": "2021-01-13",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Learned about using Java, Spring boot, Maven and Tomcat to develop websites",
+        "Working with other student developers"
+      ]
+    },
+    {
+      "company": "UH Manoa Starbucks",
+      "position": "Barista",
+      "website": "",
+      "startDate": "2018-08-06",
+      "endDate": "2020-02",
+      "summary": "",
+      "highlights": [
+        "Able to learn how to make new drinks quickly",
+        "Have to keep clam during rush time"
+      ]
+    },
+    {
+      "company": "UH Manoa Hamliton Library",
+      "position": "Asia Department China Collection Student Assistant",
+      "website": "http://manoa.hawaii.edu/library/",
+      "startDate": "2016-09-01",
+      "endDate": "2019-05-10",
+      "summary": "",
+      "highlights": [
+        "Translate book name from Chinese to Romanlization system",
+        "Organizing the books"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ACManoa",
+      "website": "https://acmanoa.github.io/",
+      "position": "Board Member",
+      "startDate": "2021-02",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Set up events for students to get together for different events"
       ]
     },
     {
-      "organization": "",
+      "organization": "Grey Hats at UH Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Board Member",
+      "startDate": "2022",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Board Member, ACM Manoa, 2020-Present",
+        "Help planning events that related to cyber security"
       ]
     }
   ],
@@ -104,10 +135,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Wah Kau Kong Scholarship",
+      "date": "2018",
+      "awarder": "University of Hawaii at Manoa Air Force ROTC",
+      "summary": "Scholarships awarded to cadets who have excellence performance and need financial assistant."
     }
   ],
   "references": [
