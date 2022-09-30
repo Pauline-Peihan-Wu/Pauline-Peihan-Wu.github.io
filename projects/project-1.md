@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Draw-Something.png
+image: img/Draw-Something.png
 title: Sketch Basic
 permalink: projects/sketchbasic
 # All dates must be YYYY-MM-DD format!
