@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mario.jpg
+image: img/mario.jpg
 title: Mario vs. Fire Bro
 permalink: projects/mariovsfirebro
 # All dates must be YYYY-MM-DD format!
