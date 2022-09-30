@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Pauline Wu",
+    "label": "Graduate Student",
+    "picture": "https://Pauline-Peihan-Wu.github.io/img/Pauline Wu 2.jpg",
+    "email": "peihanwu@hawaii.edu",
+    "phone": "808-392-6982",
+    "website": "https://Pauline-Peihan-Wu.github.io",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Pauline-Peihan-Wu", "url": "http://github.com/Pauline-Peihan-Wu" },
+      { "network": "linkedin", "username": "Pauline Wu", "url": "https://www.linkedin.com/in/pauline-wu/" }
+    ]
+  },
+  "interests": [
+    { "name": "Cybersecurity" },
+    { "name": "Basketball" },
+    { "name": "Data Science" },
+    { "name": "Problem Solving" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Semantic-UI", "Assembly", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows", "Kali" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "M.S.",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Mathnasium Hawaii",
+      "position": "Lead Instructor",
+      "website": "https://www.mathnasium.com/waialae/about",
+      "startDate": "2019-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Learned about team-teaching",
+        "Tutor students on math problem using team-teaching. Math level: Elementary math to Algebra 1, Trigonometry and Calculus II"
+      ]
+    },
+    {
+      "company": "NATIONAL INNOVATION SECURITY NETWORK",
+      "position": "2022 X-Force Summer Fellow",
+      "website": "https://www.nsin.mil/",
+      "startDate": "2022-06-06",
+      "endDate": "2022-08-12",
+      "summary": "",
+      "highlights": [
+        "Created a python simulation for Cargo Delivery in Marine Corps",
+        "Working with two other students and a sponsor in Marine Corps who is an Active Duty LtCol"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Student Java Web Developer",
+      "website": "https://www.hawaii.edu/its/",
+      "startDate": "2019-08-12",
+      "endDate": "2021-01-13",
+      "summary": "",
+      "highlights": [
+        "Learned about using Java, Spring boot, Maven and Tomcat to develop websites",
+        "Working with other student developers"
+      ]
+    },
+    {
+      "company": "UH Manoa Starbucks",
+      "position": "Barista",
+      "website": "",
+      "startDate": "2018-08-06",
+      "endDate": "2020-02",
+      "summary": "",
+      "highlights": [
+        "Able to learn how to make new drinks quickly",
+        "Have to keep clam during rush time"
+      ]
+    },
+    {
+      "company": "UH Manoa Hamliton Library",
+      "position": "Asia Department China Collection Student Assistant",
+      "website": "http://manoa.hawaii.edu/library/",
+      "startDate": "2016-09-01",
+      "endDate": "2019-05-10",
+      "summary": "",
+      "highlights": [
+        "Translate book name from Chinese to Romanlization system",
+        "Organizing the books"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ACManoa",
+      "website": "https://acmanoa.github.io/",
+      "position": "Board Member",
+      "startDate": "2021-02",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Set up events for students to get together for different events"
+      ]
+    },
+    {
+      "organization": "Grey Hats at UH Manoa",
+      "website": "",
+      "position": "Board Member",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Board Member, ACM Manoa, 2020-Present",
+        "Help planning events that related to cyber security"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Wah Kau Kong Scholarship",
+      "date": "2018",
+      "awarder": "University of Hawaii at Manoa Air Force ROTC",
+      "summary": "Scholarships awarded to cadets who have excellence performance and need financial assistant."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
