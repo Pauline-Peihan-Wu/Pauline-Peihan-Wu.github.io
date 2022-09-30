@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Tower Defense Game.png
+image: img/Tower Defense Game.png
 title: Tower Defense Game
 permalink: projects/towerdefensegame
 # All dates must be YYYY-MM-DD format!
